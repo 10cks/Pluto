@@ -6,7 +6,7 @@ Pluto-Obfuscator is a code obfuscator compatible with LLVM 12.0.1, LLVM 14.0.6, 
 ## Installation
 Download source code:
 ```
-$ git clone https://github.com/bluesadi/Pluto-Obfuscator.git
+$ git clone -b dev https://github.com/10cks/Pluto.git
 ```
 ### Dependencies
 Install z3 (required by MbaObfuscation):
